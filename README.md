@@ -11,10 +11,10 @@ ___
 ___
 
 ### 🎪 • How To Install : 
-* 1. Go to [releases]()
-* 2. Download Saturn.zip
-* 3. Extract 
-* 4. Run INSTALL.bat
+1. Go to [releases](https://github.com/asynncc/Saturn-Nuker/releases/tag/v1)
+2. Download Saturn.zip
+3. Extract 
+4. Run INSTALL.bat
 ___
 
 ### 🧠 • How To Use :
