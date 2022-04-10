@@ -1,6 +1,7 @@
 ### Hey, Welcome to Saturn (Nuker)
-#### Made By ! Sync
+#### Made By async
 #### [License](https://github.com/asynncc/Saturn-Nuker/blob/main/LICENSE)
+#### Replit = Coming Soon.
 #### Star Saturn-Nuker If you enjoy it!
 ___
 
