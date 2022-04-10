@@ -1,7 +1,7 @@
 ### Hey, Welcome to Saturn (Nuker)
 #### Made By async
 #### [License](https://github.com/asynncc/Saturn-Nuker/blob/main/LICENSE)
-#### Replit = Coming Soon.
+#### OBF CREDITS = [here](https://github.com/billythegoat356/Kramer)
 #### Star Saturn-Nuker If you enjoy it!
 ___
 
