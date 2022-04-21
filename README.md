@@ -8,7 +8,7 @@ ___
 ### ❗ • Important
 * Before, Installing make sure that you have python installed & added to path.
 * Found a bug? create an issue about it directly in [here!](https://github.com/asynncc/Saturn-Nuker/issues/new/choose)
-* **WARNING** People have been selling and distributing malicious versions of Zero-Five, This is the real github. 
+* **WARNING** People have been selling and distributing malicious versions of Saturn-Nuker, This is the real github. 
 ___
 
 ### 🎪 • How To Install : 
